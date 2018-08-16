@@ -1,3 +1,4 @@
 # python_test
-some test about python 
-20 days,you can practice 5 test everyday  
+----------------------------------------
+python 测试题100题 
+可以按照自己的需求进行编写，建议每日5题 
